@@ -1,6 +1,6 @@
-div {
+/* div {
     border: 1px solid;
-}
+} */
 .bg-1 {
     background-color: bisque;
 }
@@ -9,4 +9,7 @@ div {
 }
 .bg-3 {
     background-color: gray;
+}
+[class*='col-'] {
+    border: 1px solid black;
 }
