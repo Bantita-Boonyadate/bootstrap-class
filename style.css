@@ -1,7 +1,7 @@
-/* div {
+div {
     border: 1px solid;
-} */
-.bg-1 {
+}
+/* .bg-1 {
     background-color: bisque;
 }
 .bg-2 {
@@ -9,7 +9,7 @@
 }
 .bg-3 {
     background-color: gray;
-}
-[class*='col-'] {
+} */
+/* [class*='col-'] {
     border: 1px solid black;
-}
+} */
