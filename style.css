@@ -1,3 +1,12 @@
 div {
     border: 1px solid;
 }
+.bg-1 {
+    background-color: bisque;
+}
+.bg-2 {
+    background-color: skyblue;
+}
+.bg-3 {
+    background-color: gray;
+}
